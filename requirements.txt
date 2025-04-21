@@ -1,0 +1,17 @@
+# Core image processing & OCR
+opencv-python
+pytesseract
+Pillow
+
+# Image downloading & manipulation
+requests
+
+# Visualization
+matplotlib
+
+# For typing annotations and data structures (if used later)
+numpy
+
+# Optional: notebook support (for local Jupyter work)
+jupyter
+
